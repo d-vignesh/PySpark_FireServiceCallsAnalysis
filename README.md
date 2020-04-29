@@ -1,0 +1,1 @@
+This notebook uses the basic operations provided by pyspark to perform analysis on the fire services call data. It explores the functionalities provided by pyspark to carry out the analysis on the dataset. The dataset used can be found in : https://catalog.data.gov/dataset/fire-department-calls-for-service
